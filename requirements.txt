@@ -208,7 +208,7 @@ pycparser==2.19
 pycrypto==2.6.1
 pycryptodome==3.9.7
 pycups==1.9.73
-Pygments==2.4.2
+Pygments==2.7.4
 pygobject==3.26.1
 PyJWT==1.7.1
 pylint==2.4.4
