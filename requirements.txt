@@ -68,7 +68,7 @@ extract-msg==0.23.1
 fbprophet==0.5
 Flask==1.0.3
 Flask-Bcrypt==0.7.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-Migrate==2.4.0
 flask-ngrok==0.0.25
 flask-restplus==0.12.1
