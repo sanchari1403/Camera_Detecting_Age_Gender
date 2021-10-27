@@ -41,7 +41,7 @@ csvdiff==0.3.3
 cupshelpers==1.0
 cycler==0.10.0
 Cython==0.29.13
-dask==2.21.0
+dask==2021.10.0
 dask-glm==0.2.0
 dask-ml==1.6.0
 DateTime==4.3
