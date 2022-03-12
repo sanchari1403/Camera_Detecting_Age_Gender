@@ -188,7 +188,7 @@ pdfminer.six==20181108
 pexpect==4.2.1
 phik==0.9.8
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==9.0.1
 pipreqs==0.4.9
 plotly==4.2.1
 pluggy==0.13.1
