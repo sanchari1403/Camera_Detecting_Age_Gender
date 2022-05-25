@@ -210,7 +210,7 @@ pycryptodome==3.9.7
 pycups==1.9.73
 Pygments==2.4.2
 pygobject==3.26.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 pymacaroons==0.13.0
 PyMySQL==0.9.3
