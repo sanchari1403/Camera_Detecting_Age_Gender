@@ -48,7 +48,7 @@ DateTime==4.3
 decorator==4.4.0
 defer==1.0.6
 defusedxml==0.6.0
-distributed==2.21.0
+distributed==2021.10.0
 distro==1.4.0
 distro-info===0.18ubuntu0.18.04.1
 Django==3.0.4
