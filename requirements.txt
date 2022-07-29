@@ -151,7 +151,7 @@ matplotlib==3.0.3
 mccabe==0.6.1
 miniupnpc==2.0.2
 missingno==0.4.2
-mistune==0.8.4
+mistune==2.0.3
 mock==3.0.5
 more-itertools==7.2.0
 msgpack==1.0.0
